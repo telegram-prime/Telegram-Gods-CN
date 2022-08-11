@@ -14,7 +14,7 @@
 - 加入我们，现在就开始在Telegram中推广!
 
 
-##截图。
+## 截图。
 
 <img align="center" width="512" alt="TGG_Screen_001" src="https://user-images.githubusercontent.com/94137664/180645000-8a129a5c-f13b-4508-903f-be840a84c154.png">  <img align="center" width="512" alt="TGG_Screen_002" src="https://user-images.githubusercontent.com/94137664/180644995-aec1e24a-a38f-4dbc-8ed3-4335e919297f.png">
 
@@ -54,10 +54,10 @@
    * 我们有多语言支持团队，他们随时准备回答你的所有问题，并帮助你24/7。
 
 ##
-## ＃＃＃提供24小时的免费试用! 通过我们的网站联系支持。
+### 提供24小时的免费试用! 通过我们的网站联系支持。
 
 
-## ＃＃＃联系。
+### 联系。
 - Wеb: https://telegram-gods.pro/ - EN版
 - Wеb: https://telegram-gods.com/ - RU Version
 
