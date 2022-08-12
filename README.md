@@ -1,13 +1,13 @@
-# telegram-Gods *（前telegram-Soft）*。
+# Telegram-Gods *（前Telegram-Soft）*。
  
-* 描述也有英文版本。见[telegram Gods Eng](https://github.com/telegram-gods/telegram-Gods)
- * 描述也有俄文版本。见[telegram Gods Rus](https://github.com/telegram-gods/telegram-Gods-RU)
+* 描述也有英文版本。见[Telegram Gods Eng](https://github.com/Telegram-gods/Telegram-Gods)
+ * 描述也有俄文版本。见[Telegram Gods Rus](https://github.com/Telegram-gods/Telegram-Gods-RU)
 
 
-### telegram-Gods - 在纸飞机中推广的最佳软件
-- 这个在telegram中的最强大的多功能推广工具将帮助你不费吹灰之力，只需几天时间就能采集到所需的目标客户并给你你自己的频道或群组拉人。
+### Telegram-Gods - 在纸飞机中推广的最佳软件
+- 这个在Telegram中的最强大的多功能推广工具将帮助你不费吹灰之力，只需几天时间就能采集到所需的目标客户并给你你自己的频道或群组拉人。
 - 高效宣传你的想法，并获得巨大利润。💰💰💰
-- 软件在telegram Api上工作。这是一个独家优势，通过别人家软件工作的竞争对手基本被团灭。
+- 软件在Telegram Api上工作。这是一个独家优势，通过别人家软件工作的竞争对手基本被团灭。
 它有什么好处？
   * 封号几率更低。安卓/苹果/windows应用程序通过API连接到小飞机服务器，用这个API就可以暗箱操作。
   * 所有操作都更快。API工作不需要打开浏览器，仅需几分之一秒，并且损耗的代理流量要少几十倍。
@@ -24,7 +24,7 @@
 
 
 
-## 以下是telegram-Gods功能的简短列表。
+## 以下是Telegram-Gods功能的简短列表。
 
 - 帐户管理功能。
    * 多线程自动注册，账号品牌效应：批量全自动设置头像、个人状态、昵称、两步验证和其他20种功能。在频道/群组/机器人中偷客户。（如果你所有拖号头像昵称都设置一样的那么别人就知道了你家的品牌，打响知名度）
@@ -62,12 +62,12 @@
 
 
 ### 联系。
-- Wеb: https://telegram-gods.pro/ - EN版
-- Wеb: https://telegram-gods.com/ - RU Version
+- Wеb: https://Telegram-gods.pro/ - EN版
+- Wеb: https://Telegram-gods.com/ - RU Version
 
-- 电子邮件: telegram-soft-sales[@]prоtonmail.cоm
+- 电子邮件: Telegram-soft-sales[@]prоtonmail.cоm
 - 电报。@TGG_Sales
-- 推特：https://twitter.com/telegram_soft
+- 推特：https://twitter.com/Telegram_soft
 - YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
 
 
