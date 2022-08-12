@@ -16,9 +16,12 @@
 
 ## 截图。
 
-<img align="center" width="512" alt="TGG_Screen_001" src="https://user-images.githubusercontent.com/94137664/180645000-8a129a5c-f13b-4508-903f-be840a84c154.png">  <img align="center" width="512" alt="TGG_Screen_002" src="https://user-images.githubusercontent.com/94137664/180644995-aec1e24a-a38f-4dbc-8ed3-4335e919297f.png">
+<img width="512" alt="tgg_cn_1" src="https://user-images.githubusercontent.com/94137664/184330313-daa04e1d-f46b-4742-a988-8fa8dcb0022b.png">   <img width="512" alt="tgg_cn_2" src="https://user-images.githubusercontent.com/94137664/184330303-f1be3a64-890c-490b-a7b9-fb48440e2eba.png">
 
-<img align="center" width="512" alt="TGG_Screen_003" src="https://user-images.githubusercontent.com/94137664/180644991-1e3afaf3-31e6-43dc-9877-5efbc2b9449b.png">  <img align="center" width="512" alt="TGG_Screen_004" src="https://user-images.githubusercontent.com/94137664/180644987-fdf85963-75d2-46b7-b365-cdccb6712edd.png">
+<img width="512" alt="tgg_cn_3" src="https://user-images.githubusercontent.com/94137664/184330287-9072a8ce-90df-4791-aa9b-5b64bf033ddb.png">   <img width="512" alt="tgg_cn_4" src="https://user-images.githubusercontent.com/94137664/184330264-2da14ef9-c01c-4595-8928-c8a519c0ac26.png">
+
+
+
 
 ## 以下是Telegram-Gods功能的简短列表。
 
