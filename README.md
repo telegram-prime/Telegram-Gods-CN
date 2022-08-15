@@ -63,7 +63,7 @@
 
 ### 联系。
 - Wеb: https://Telegram-gods.pro/ - EN 版
-- Wеb: https://Telegram-gods.com/ - RU N版
+- Wеb: https://Telegram-gods.com/ - RU 版
 
 - 电子邮件: Telegram-soft-sales[@]prоtonmail.cоm
 - 电报。@TGG_Sales
