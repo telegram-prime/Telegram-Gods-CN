@@ -1,7 +1,7 @@
 # Telegram-Gods *（前Telegram-Soft）*。
  
  * 描述也有英文版本。见[Telegram Gods Eng](https://github.com/telegram-gods/Telegram-Gods)
- * 描述也有俄文版本。见[Telegram Gods Rus](https://github.com/telegram-gods/Telegram-Gods-RU)
+ * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus](https://github.com/telegram-gods/Telegram-Gods-RU)
 
 
 ### Telegram-Gods - 在Telegram中推广的最佳软件
