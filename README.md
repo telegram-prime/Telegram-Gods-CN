@@ -67,7 +67,7 @@
 - 电子邮件: telegram-soft-sales[@]prоtonmail.cоm
 - 电报。@TGG_Sales
 - 推特：https://twitter.com/TelegramGods
-- YouTube: https://www.youtube.com/channel/UCMGDxx-lf9aFbnFujXKk2PQ/videos
+- YouTube: https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos
 
 
 ## 捐赠：
