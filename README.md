@@ -64,7 +64,7 @@
 - Wеb: https://telegram-gods.pro/ - EN 版
 - Wеb: https://telegram-gods.com/ - RU 版
 
-- 电子邮件: telegram-soft-sales[@]prоtonmail.cоm
+- 电子邮件: info[@]telegram-gods.pro
 - 电报。@TGG_Sales
 - [推特](https://twitter.com/TelegramGods)
 - [YouTube视频指南](https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos)
